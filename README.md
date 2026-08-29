@@ -1,5 +1,7 @@
 # ViewMD
 
+![ViewMD preview](assets/sample.jpg)
+
 ViewMD is a minimal, read-only desktop viewer for Markdown files that are
 being written by an AI or any other process. Open one file and ViewMD watches
 it continuously, updating the rendered document after each save.
