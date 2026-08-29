@@ -16,10 +16,10 @@ No accounts, no databases, no AI APIs, no editing tools.
 
 ```bash
 # remote (once this repo is on GitHub):
-curl -fsSL <RAW_GITHUB_URL>/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/pr0xy22/ViewMD/main/install.sh | bash
 
 # or locally:
-git clone <repo> && cd ViewMD && ./install.sh
+git clone https://github.com/pr0xy22/ViewMD && cd ViewMD && ./install.sh
 ```
 
 The installer checks prerequisites, installs dependencies, and builds the

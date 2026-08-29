@@ -9,7 +9,7 @@ set -euo pipefail
 
 # ── set this after creating the GitHub repo, e.g.
 # ── REPO="https://github.com/YOURUSER/ViewMD"
-REPO="${VIEWMD_REPO:-}"
+REPO="${VIEWMD_REPO:-https://github.com/pr0xy22/ViewMD}"
 
 info() { printf '\033[1;34m==>\033[0m %s\n' "$*"; }
 warn() { printf '\033[1;33mwarning:\033[0m %s\n' "$*"; }
